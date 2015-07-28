@@ -1,5 +1,5 @@
 body{
-    font-family: 'helvetica neue', arial, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     background-color: #EEEEEE;
 }
 .wraper{
@@ -16,13 +16,23 @@ body{
 }
 .content h1{
     font-size: 3em;
-    position: relative;
-    left: -3px;
+    margin-bottom: 10px;
 }
 .content h2{
-    font-family: Garamond, serif;
+    font-size: 2.5em;
+    margin-bottom: 10px;
+}
+.content h3{
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+.content h4{
     font-size: 1.5em;
-    margin-bottom: 16px;
+    margin-bottom: 10px;
+}
+.content h5{
+    font-size: 1em;
+    margin-bottom: 10px;
 }
 p{
     font-size: 1em;
