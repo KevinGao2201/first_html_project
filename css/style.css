@@ -1,0 +1,28 @@
+body{
+    font-family: 'helvetica neue', arial, sans-serif;
+}
+.wraper{
+    margin: 60px 60px;
+}
+.content{
+    padding: 60px;
+    margin: auto;
+    min-width: 500px;
+    max-width: 700px;
+    border-radius: 15px;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.25);
+}
+.content h1{
+    font-size: 3em;
+    position: relative;
+    left: -3px;
+}
+.content h2{
+    font-family: Garamond, serif;
+    font-size: 1.5em;
+    margin-bottom: 16px;
+}
+p{
+    font-size: 1em;
+    line-height: 1.15;
+}
